@@ -1,5 +1,5 @@
 ## Olá, eu sou Matheus!
-## Estudante de Desenvolvimento de Software / Dospositivos móveis.
+## Estudante de Desenvolvimento de Software / Dispositivos móveis.
 
 <div align="center">
   <a href="https://github.com/MatheusAlvesSilva">
